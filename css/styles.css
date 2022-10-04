@@ -1,0 +1,20 @@
+/*****************TAG SELECTOR****************/
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 7%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: red;
+}
+/*****************TAG SELECTOR****************/
+.circular{
+  border-radius: 100%;
+}
